@@ -1,4 +1,4 @@
-![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/e2391aaa-b44d-47a0-9ea3-e69f0696ecb5)![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/917019ee-24c5-433c-bb09-b4049dc5349c)![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/7cb439e7-4061-481e-9b75-0c6052a43ded)# DevTown Assignment
+# DevTown Assignment
 A Web Page that displays product lists and products can be filtered using category, price, and ratings using React.js and styled-components.
 
 Functionalities -
@@ -11,6 +11,8 @@ Functionalities -
 4. Run "npm install".
 5. Run "npm run dev".
    This will provide you with a link, open that link in any browser, the project will appear on that link.
+
+   ![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/e2391aaa-b44d-47a0-9ea3-e69f0696ecb5)
 
 
 
