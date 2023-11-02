@@ -14,7 +14,8 @@ Functionalities -
 # Front-end Images
    ![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/e2391aaa-b44d-47a0-9ea3-e69f0696ecb5)
 Products list using filters
-![Uploading image.png…]()
+![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/968617ca-fe45-4e6a-80c1-7315c7eceacf)
+
 
 
 
