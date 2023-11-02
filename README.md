@@ -13,7 +13,9 @@ Functionalities -
    This will provide you with a link, open that link in any browser, the project will appear on that link.
 # Front-end Images
    ![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/e2391aaa-b44d-47a0-9ea3-e69f0696ecb5)
+   
 Products list using filters
+
 ![image](https://github.com/Bhaktibhosale123/DevTown_Assignment/assets/92632243/968617ca-fe45-4e6a-80c1-7315c7eceacf)
 
 
